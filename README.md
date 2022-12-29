@@ -15,6 +15,7 @@ https://iasaglobal.org/
 
 ## Design patterns Exemples
 https://www.dofactory.com/net/design-patterns
+https://refactoring.guru/design-patterns/creational-patterns
 
 
 ## CQRS
