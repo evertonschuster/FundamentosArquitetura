@@ -11,7 +11,7 @@ https://www.bpmn.org/
 ## Architect
 https://learn.microsoft.com/en-us/previous-versions/cc505968(v=msdn.10)
 https://iasaglobal.org/
-
+https://learn.microsoft.com/pt-br/azure/architecture/patterns/
 
 ## Design patterns Exemples
 https://www.dofactory.com/net/design-patterns
